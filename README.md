@@ -10,6 +10,15 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vite.dev/config/).
 
+## Create project
+
+```sh
+# npm create vue@latest <project_name>
+# OR
+# npm create vite@latest <project_name>
+npm create vue@latest nfs-vuejs
+```
+
 ## Project Setup
 
 ```sh
