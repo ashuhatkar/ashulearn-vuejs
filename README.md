@@ -2,12 +2,12 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Pre-requisite
+## Prerequisites
 
 - node
 - npm
 
-## Recommended IDE Setup
+## Recommended IDE setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
@@ -30,19 +30,19 @@ npm i -D vite
 npm create vue@latest nfs-vuejs
 ```
 
-## Project Setup
+## Setup project
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+## Compile and Hot-Reload for Development
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Compile and Minify for Production
 
 ```sh
 npm run build
@@ -50,4 +50,4 @@ npm run build
 
 ### Browse your application locally (default port: 5173)
 
-http://localhost:5173/
+<http://localhost:5173/>
